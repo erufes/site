@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Início"
+    url: /
+  - title: "Sobre"
+    url: /sobre/
+  - title: "Integrantes"
+    url: /integrantes/
+  - title: "Conquistas"
+    url: /conquistas/    
+  - title: "Contato"
+    url: /contato/
+  - title: "Blog"
+    url: /blog/
