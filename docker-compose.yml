@@ -1,0 +1,14 @@
+version: "3.5"
+
+services:
+  jekyll:
+    build:
+      context: ./
+    ports:
+      - 4001:4000
+    volumes:
+      - .:/usr/src/app
+    stdin_open: true
+    tty: true
+    container_name: blog
+    command: bundle exec jekyll serve -H 0.0.0.0 -t
