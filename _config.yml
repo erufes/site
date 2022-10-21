@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "ERUS - Equipe de Robótica UFES"
 description              : "Equipe de Robótica da Universidade Federal do Espírito Santo"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/dev" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "assets/imgs/favicon.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # assets/imgs/favicon.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
