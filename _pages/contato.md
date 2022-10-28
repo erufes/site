@@ -7,4 +7,4 @@ author_profile: true
 ---
 
 - Localização: CT 13 - Sala 33 (3° andar)
-- Email: erus@inf.ufes.br
+- Email: [erus@inf.ufes.br](mailto:erus@inf.ufes.br)
