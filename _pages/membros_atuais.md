@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /membros_atuais/
+permalink: /membros/membros_atuais/
 title: "Membros Atuais"
 classes: wide
 author_profile: true
