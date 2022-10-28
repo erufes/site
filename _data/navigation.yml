@@ -4,8 +4,8 @@ main:
     url: /
   - title: "Sobre"
     url: /sobre/
-  - title: "Integrantes"
-    url: /integrantes/
+  - title: "Membros"
+    url: /membros/
   - title: "Conquistas"
     url: /conquistas/    
   - title: "Contato"

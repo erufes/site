@@ -1,10 +1,14 @@
 ---
 layout: single
-permalink: /integrantes/
-title: "Integrantes"
+permalink: /membros/
+title: "Membros"
 classes: wide
 author_profile: true
 ---
+
+Colocar aqui uma divisão entre membros atuais e egressos
+Há a possibilidade de fazer dessa a página de membros egressos e criar uma página para redirecionar para as outras duas
+
 
 Ao longo dos anos, a equipe já teve diversos integrantes...
 
