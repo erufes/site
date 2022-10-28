@@ -6,9 +6,9 @@ classes: wide
 author_profile: true
 ---
 
-### Principais conquistas da equipe
+## Principais conquistas da equipe
 
-#### Resultados dos integrantes da equipe na época em que disputavam a LARC e CBR na categoria IEEE SEK:
+### Resultados dos integrantes da equipe na época em que disputavam a LARC e CBR na categoria IEEE SEK:
 
 ##### Tetracampeã latino americana de robótica na categoria IEEE SEK
 - 2008
