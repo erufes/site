@@ -222,11 +222,14 @@ body {
 
     .page__lead {
       max-width: $medium;
+      font-family: 'Roboto', sans-serif;
+      font-weight: 300;
     }
 
     .page__title {
       font-size: $type-size-2;
       font-family: 'Oswald', sans-serif;
+      font-weight: 200;
 
       @include breakpoint($small) {
         font-size: $type-size-1;

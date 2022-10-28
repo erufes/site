@@ -6,7 +6,7 @@ header:
   actions:
     - label: "Blog"
       url: "/blog/"
-excerpt: "A ERUS é um programa de extensão da Universidade Federal do Espírito Santo atualmete localizado na sala 33 do prédio CT-13"
+excerpt: "A ERUS é um programa de extensão da Universidade Federal do Espírito Santo atualmente localizado na sala 33 do prédio CT-13"
 feature_row:
   - title: "Conhecimento 🧠"
     excerpt: "[O principal intuito da equipe](sobre) é aprender e gerar conhecimento que envolva a prática de robótica. Os [integrantes](integrantes) do time são capazes de colocar em prática o conhecimento adquirido em sala de aula e expandir os seus conhecimentos sobre o assunto."
