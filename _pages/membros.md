@@ -17,5 +17,6 @@ A equipe atualmente é formada por:
 - Higor David Oliveira - Engenharia Elétrica - (2018 - Atualmente)
 - Thiago Tineli Paiva - Engenharia da Computação - (2019 - Atualmente)
 
-- [Membros egressos](membros_egressos)
+-------------------------------------------------------------------------
+[Membros egressos](membros_egressos)
 
