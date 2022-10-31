@@ -140,9 +140,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/erus.ufes/"
-    - label: "YouTube"
-      icon: "fab fa-fw fa-youtube"
-      url: "https://www.youtube.com/c/erusteam" 
+  
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
