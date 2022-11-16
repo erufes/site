@@ -10,5 +10,7 @@ main:
     url: /conquistas/    
   - title: "Contato"
     url: /contato/
+  - title: "Reportagens"
+    url: /reportagens/
   - title: "Blog"
     url: /blog/
