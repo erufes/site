@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /seja_membroo/
+permalink: /seja_membro/
 title: "Seja Membro"
 classes: wide
 author_profile: true
