@@ -14,3 +14,5 @@ main:
     url: /reportagens/
   - title: "Blog"
     url: /blog/
+  - title: "Seja Membro"
+    url: /seja_membro/
