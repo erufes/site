@@ -12,6 +12,8 @@ main:
     url: /contato/
   - title: "Reportagens"
     url: /reportagens/
+  - title: "Projetos"
+    url: /projetos/
   - title: "Blog"
     url: /blog/
   - title: "Seja Membro"
