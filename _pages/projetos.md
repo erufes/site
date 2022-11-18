@@ -6,8 +6,6 @@ classes: wide
 author_profile: true
 ---
 
-## Projetos
-
 Nossa maior missão é de fomentar o crescimento da Robótica no estado como um todo, por isso temos projetos em varias áreas, visando cada vez mais o crescimento da nossa equipe e do interesse dos alunos, professores e da sociedade em geral por essa missão.
 
 Nossos projetos são separados em três frentes: Competitiva, Educacional e Organização de Eventos. Procuramos ter as três sempre em bom andamento, pois sabemos que o conhecimento que construímos e a inspiração que trazemos para cada pessoa que nos vê é o mais importante da nossa missão!
