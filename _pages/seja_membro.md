@@ -18,7 +18,7 @@ Você pode ver as vagas atualmente disponíveis em nosso [site dedicado às vaga
 
 ### Formulário de inscrição
 
-Por favor preencha o [formulário google para inscrição](https://docs.google.com/forms/d/e/1FAIpQLSds2Ir-zckiDe9_V15f2rjasy5obL4ieR9E6aqTUrPiJ4j71A/viewform).
+Por favor preencha o [formulário google para inscrição](https://docs.google.com/forms/d/e/1FAIpQLSds2Ir-zckiDe9_V15f2rjasy5obL4ieR9E6aqTUrPiJ4j71A/viewform).(Precisamos atualizar o formulário)
 
 Você receberá um e-mail com as suas respostas, assim, caso tenha algum problema, pode retificar enviando uma mensagem pelo formulário de contato ou falando diretamente conosco. Agradecemos muito o seu interesse pela nossa equipe!
 
