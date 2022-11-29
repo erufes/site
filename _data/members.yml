@@ -185,8 +185,8 @@ egressos:
     - name: "Juan França Muniz de Souza"
       course: "Engenharia da Computação"
       start_date: 2012
-      
-  ano desconhecido:
+
+  Ano Desconhecido:
     - name: "Caio Borgo"
       course: "Engenharia Elétrica"
     - name: "Gabriel de Angelo"
