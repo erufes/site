@@ -3,9 +3,13 @@ egressos:
     - name: "Gabrielly Cariman"
       course: "Engenharia Elétrica"
       start_date: "2019"
+    - name: "Lorena Bassani"
+      course: "Ciência da Computação"
+      start_date: 2017
     - name: "Pedro Fontes Lelis"
       course: "Engenharia da Computação"
       start_date: "2016"
+
   2021:
     - name: "Elaine Dias"
       course: "Ciência da Computação"
@@ -13,6 +17,7 @@ egressos:
     - name: "Lívia Barcelos"
       course: "Engenharia da Computação"
       start_date: 2021
+
   2020:
     - name: "Breno Odnan"
       course: "Engenharia Elétrica"
@@ -47,17 +52,177 @@ egressos:
     - name: "Tales Ferracioli"
       course: "Engenharia da Computação"
       start_date: 2019
+
+  2019:
+    - name: "André Felipe Pereira"
+      course: "Engenharia Elétrica"
+      start_date: 2018
+    - name: "Kleber Santiago"
+      course: "Engenharia Elétrica"
+      start_date: 2017
+    - name: "Renan Correa"
+      course: "Engenharia Elétrica"
+      start_date: 2018
+    - name: "Ricardo Venturotti"
+      course: "Engenharia da Computação"
+      start_date: 2017
+    - name: "Victor Moura"
+      course: "Ciência da Computação"
+      start_date: 2016
+
+  2018:
+    - name: "Alessandro Baldi"
+      start_date: 2016
+    - name: "Carolina Cunha"
+      course: "Engenharia Mecânica"
+      start_date: 2017
+    - name: "Flávia Abdalla"
+      course: "Engenharia Elétrica"
+      start_date: 2017
+    - name: "Gabriel Barbosa"
+      course: "Engenharia Elétrica"
+      start_date: 2017   
+    - name: "Gabriel Garcia"
+      start_date: 2017
+    - name: "Mariana Zanoni"
+      course: "Engenharia Civil"
+      start_date: 2018
+    - name: "Matheus Lenke"
+      course: "Engenharia Civil"
+      start_date: 2018
+    - name: "Matheus Lucena"
+      course: "Engenharia da Computação"
+      start_date: 2017
+    - name: "Murilo Ronchi"
+      course: "Engenharia da Computação"
+      start_date: 2017
+    - name: "Lorenzo Moulin"
+      course: "Engenharia da Computação"
+      start_date: 2017
+    - name: "Ricardo Vieira da Silva"
+      course: "Engenharia Elétrica"
+      start_date: 2017
+    - name: "Roberta Cortat"
+      start_date: 2017
+    - name: "Tiago Brito"
+      course: "Engenharia Elétrica"
+      start_date: 2017
+  
+  2017:
+    - name: "Douglas Funayama"
+      course: "Engenharia da Computação"
+      start_date: 2015
+    - name: "Eduarda Coppo"
+      course: "Engenharia da Computação"
+      start_date: 2016
+    - name: "Fernando Machado"
+      course: "Engenharia da Computação"
+      start_date: 2016
+    - name: "Thiago Bragança"
+      start_date: 2016
+    - name: "Raquel Vassalo"
+      course: "Engenharia Elétrica"
+      start_date: 2012
+      professor: true
+    
     
   2016:
     - name: "Roberta Lima Gomes"
       course: "Engenharia da Computação"
       start_date: 2012
       professor: true
+
+  2015:
+    - name: "André Pacheco"
+      course: "Engenharia da Computação"
+      start_date: 2012
+    - name: "Daniel Cardoso"
+      course: "Ciência da Computação"
+      start_date: 2013
+    - name: "Davi Frossard"
+      course: "Engenharia da Computação"
+      start_date: 2012
+    - name: "Flávio Machado"
+      course: "Engenharia da Computação"
+      start_date: 2013
+    - name: "Igor de Oliveira Nunes"
+      course: "Engenharia da Computação"
+      start_date: 2012
+    - name: "Ivan de Oliveira Nunes"
+      course: "Engenharia da Computação"
+      start_date: 2012
+    - name: "Marcos Couto"
+      course: "Engenharia da Computação"
+      start_date: 2014
+    - name: "Lucas Rocha"
+      course: "Engenharia da Computação"
+      start_date: 2014
+    - name: "Renan Sarcinelli"
+      course: "Engenharia da Computação"
+      start_date: 2013
+    - name: "André Pacheco"
+      course: "Ciência da Computação"
+      start_date: 2013
+
+  2014:
+    - name: "Allan Deangelle"
+      course: "Engenharia Elétrica"
+      start_date: 2013
+    - name: "Ebenezer Nogueira"
+      course: "Engenharia da Computação"
+      start_date: 2013
+    - name: "Jackson Brito"
+      course: "Engenharia da Computação"
+      start_date: 2012
+    - name: "Paula Sarmenghi Rodrigues"
+      course: "Engenharia da Computação"
+      start_date: 2013
+    - name: "Thaylo Xavier"
+      course: "Engenharia da Computação"
+      start_date: 2012
+
+  2013:
+    - name: "Juan França Muniz de Souza"
+      course: "Engenharia da Computação"
+      start_date: 2012
+  unknown:
+    - name: "Caio Borgo"
+      course: "Engenharia Elétrica"
+    - name: "Gabriel de Angelo"
+      course: "Engenharia da Computação"
+    - name: "Gabriel Ponath Rodrigues"
+    - name: "Guilherme Marroquio"
+      course: "Engenharia da Computação"
+    - name: "Rayane Nascimento"
+      course: "Engenharia da Computação"
+    - name: "Thales Layber"
+      course: "Engenharia Elétrica"
+    - name: "Vantuir Junior"
+      
   ultrabots:
     - name: "Carmem Faria Santos"
       course: "Engenharia Mecânica"
       professor: true
+    - name: "Lucas Catabriga"
+      course: "Engenharia da Computação"
+    - name: "Franz Biondi Siemon"
+      course: "Engenharia Elétrica"
+    - name: "Adenisio Hoffman"
+      course: "Engenharia da Computação"
+    - name: "Thierry Rampinelli Bravo"
+      course: "Engenharia Elétrica"
+    - name: "André Pacheco"
+      course: "Engenharia da Computação" 
+    - name: "Juan França"
+      course: "Engenharia da Computação"   
+    - name: "Vitor Buback"
+      course: "Engenharia da Computação"
+    - name: "Ivan de Oliveira Nunes"
+      course: "Engenharia da Computação"
+    - name: "Jackson Brito"
+      course: "Engenharia da Computação"      
 
+  
 current:
   - name: "André Pacheco"
     professor: true
