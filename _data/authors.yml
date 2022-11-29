@@ -40,3 +40,22 @@ pietroluongo:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/pietroluongo"
+
+guilherme:
+  name: "Guilherme Caldana"
+  avatar: "https://avatars.githubusercontent.com/u/88007840?s=400&u=9db3bbd819820634825d2dc9a0e5ef870d30fb0e&v=4"
+  bio: "Estudante de Engenharia Elétrica na UFES. Focando no aprendizado"
+  location: "Vila Velha - ES"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:guicaldana7@gmail.com
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
+    #   url: "https://pachecoandre.com.br"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/guilherme-caldana-9810a9255/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/caldgui"
