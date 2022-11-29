@@ -7,9 +7,9 @@ main:
   - title: "Membros"
     url: /membros/
   - title: "Conquistas"
-    url: /conquistas/    
-  - title: "Contato"
-    url: /contato/
+    url: /conquistas/
+  - title: "Notícias"
+    url: /noticias/
   - title: "Reportagens"
     url: /reportagens/
   - title: "Projetos"

@@ -4,7 +4,7 @@ classes: wide
 header:
   teaser: "/assets/imgs/posts/python.jpeg"
 categories:
-  - Blog
+  - Tecnologia
 tags:
   - Artigo
   - Python

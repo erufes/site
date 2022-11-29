@@ -5,7 +5,7 @@ classes: wide
 header:
   teaser: "/assets/imgs/posts/conda.png"
 categories:
-  - Blog
+  - Tecnologia
 tags:
   - Artigo
   - Python
