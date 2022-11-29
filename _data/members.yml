@@ -26,3 +26,12 @@ egressos:
     - name: "Carmem Faria Santos"
       course: "Engenharia Mecânica"
       professor: true
+
+current:
+  - name: "André Pacheco"
+    professor: true
+    course: "Engenharia da Computação"
+    start_date: 2022
+  - name: "Fernando Bisi Vieira"
+    course: "Engenharia da Computação"
+    start_date: 2017
