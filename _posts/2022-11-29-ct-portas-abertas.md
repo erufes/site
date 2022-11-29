@@ -18,8 +18,7 @@ A ERUS esteve presente no **CT Portas Abertas 2022**, evento que ocorreu nos dia
 
 A ERUS esteve presente no evento com um estande, onde os visitantes puderam conhecer mais sobre a equipe e o que fazemos. Além disso, também tivemos a oportunidade de conversar com os visitantes e responder suas dúvidas sobre a equipe e a robótica em geral.
 
-![](/dev/assets/imgs/posts/ct-portas-abertas/conquistas.png "Troféus das competições que a equipe participou")
-_Conquistas da equipe foram destaque no evento_
+{% include figure image_path="/assets/imgs/posts/ct-portas-abertas/conquistas.png" alt="Troféus das competições que a equipe participou." caption="Conquistas da equipe foram destaque no evento." style="width:20rem" %}
 
 Além da participação nos estandes, a ERUS também promoveu uma **oficina de robótica**, onde os visitantes puderam conhecer mais sobre a robótica e a equipe. A oficina foi ministrada pelos membros da ERUS, e possibilitou a construção de diversos projetos usando Arduino pelos participantes, que eram alunos do ensino médio e de graduação. A oficina foi um sucesso, e os participantes puderam aprender mais sobre a robótica e a equipe.
 
