@@ -9,7 +9,6 @@ egressos:
     - name: "Pedro Fontes Lelis"
       course: "Engenharia da Computação"
       start_date: "2016"
-
   2021:
     - name: "Elaine Dias"
       course: "Ciência da Computação"
@@ -17,7 +16,6 @@ egressos:
     - name: "Lívia Barcelos"
       course: "Engenharia da Computação"
       start_date: 2021
-
   2020:
     - name: "Breno Odnan"
       course: "Engenharia Elétrica"
@@ -52,7 +50,6 @@ egressos:
     - name: "Tales Ferracioli"
       course: "Engenharia da Computação"
       start_date: 2019
-
   2019:
     - name: "André Felipe Pereira"
       course: "Engenharia Elétrica"
@@ -69,7 +66,6 @@ egressos:
     - name: "Victor Moura"
       course: "Ciência da Computação"
       start_date: 2016
-
   2018:
     - name: "Alessandro Baldi"
       start_date: 2016
@@ -107,7 +103,6 @@ egressos:
     - name: "Tiago Brito"
       course: "Engenharia Elétrica"
       start_date: 2017
-  
   2017:
     - name: "Douglas Funayama"
       course: "Engenharia da Computação"
@@ -123,15 +118,12 @@ egressos:
     - name: "Raquel Vassalo"
       course: "Engenharia Elétrica"
       start_date: 2012
-      professor: true
-    
-    
+      professor: true 
   2016:
     - name: "Roberta Lima Gomes"
       course: "Engenharia da Computação"
       start_date: 2012
       professor: true
-
   2015:
     - name: "André Pacheco"
       course: "Engenharia da Computação"
@@ -163,7 +155,6 @@ egressos:
     - name: "André Pacheco"
       course: "Ciência da Computação"
       start_date: 2013
-
   2014:
     - name: "Allan Deangelle"
       course: "Engenharia Elétrica"
@@ -180,12 +171,10 @@ egressos:
     - name: "Thaylo Xavier"
       course: "Engenharia da Computação"
       start_date: 2012
-
   2013:
     - name: "Juan França Muniz de Souza"
       course: "Engenharia da Computação"
       start_date: 2012
-
   Desconhecido:
     - name: "Caio Borgo"
       course: "Engenharia Elétrica"
