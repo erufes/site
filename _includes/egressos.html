@@ -1,0 +1,45 @@
+{%- for year in site.data.members.egressos -%}
+    <div>
+        {% if year[0] == "ultrabots" %}
+            <h3>Egressos da UFES Ultrabots (2008-2012)</h3>
+            {% else %}
+            <h3>Egressos em {{year[0]}}</h3>
+        {% endif %}
+        <ul>
+        {%- for member in year[1] -%}
+            <li>
+                <b>{{member.name}}</b>
+                {% if member.professor %}
+                    👩‍🏫
+                {% endif %}
+                <span title="{{member.course}}">
+                    {% case member.course %}
+                        {% when "Engenharia Elétrica" %}
+                            {{site.data.courses_emojis.eletrica}}
+                        {% when "Engenharia da Computação" %}
+                            {{site.data.courses_emojis.engcomp}}
+                            
+                        {% when "Ciência da Computação" %}
+                            {{site.data.courses_emojis.ccomp}}
+                        {% when "Engenharia Mecânica" %}
+                            {{site.data.courses_emojis.engmec}}
+                        {% when "Engenharia Civil" %}
+                            {{site.data.courses_emojis.civil}}
+                        {% else %}
+                            <span title="Desconhecido">
+                                {{site.data.courses_emojis.unknown}}
+                            </span>
+                    {% endcase %}
+                </span>
+                {% if year[0] != "ultrabots" %}
+                    {% if member.start_date == year[0] %}
+                        {{member.start_date}}
+                    {% else %}
+                        {{member.start_date}}-{{year[0]}}
+                    {% endif %}
+                {% endif %}
+        </li>
+        {% endfor %}
+        </ul>
+    </div>
+{% endfor %}

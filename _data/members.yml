@@ -1,0 +1,27 @@
+egressos:
+  2022:
+    - name: "Gabrielly Cariman"
+      course: "Engenharia Elétrica"
+      start_date: "2019"
+    - name: "Pedro Fontes Lelis"
+      course: "Engenharia da Computação"
+      start_date: "2016"
+    - name: "Nome do Egresso 3"
+      foto: "foto.jpg"
+  2021:
+    - name: "Elaine Dias"
+      course: "Ciência da Computação"
+      start_date: 2021
+    - name: "Lívia Barcelos"
+      course: "Engenharia da Computação"
+      start_date: 2021
+  2016:
+    - name: "Roberta Lima Gomes"
+      course: "Engenharia da Computação"
+      start_date: 2012
+      professor: true
+  ultrabots:
+    - name: "Roberta Lima Gomes"
+      course: "Engenharia da Computação"
+      start_date: 2012
+      professor: true
