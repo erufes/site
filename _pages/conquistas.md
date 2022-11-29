@@ -6,20 +6,21 @@ classes: wide
 author_profile: true
 ---
 
-### Principais conquistas da equipe
+Esta página lista as principais conquistas da ERUS em competições
 
-#### Resultados dos integrantes da equipe na época em que disputavam a LARC e CBR na categoria IEEE SEK:
+### Tetracampeã latino americana de robótica na categoria IEEE SEK
 
-##### Tetracampeã latino americana de robótica na categoria IEEE SEK
-- 2008
-- 2009
-- 2010
-- 2011
+- 2008 🥇
+- 2009 🥇
+- 2010 🥇
+- 2011 🥇
 
-##### Tricampeã Brasileira de robótica na categoria IEEE SEK
-- 2008
-- 2009
-- 2010
+### Tricampeã Brasileira de robótica na categoria IEEE SEK
 
-##### Vice-campeã Brasileira de robótica na categoria IEEE SEK
-- 2011
+- 2008 🥇
+- 2009 🥇
+- 2010 🥇
+
+### Vice-campeã Brasileira de robótica na categoria IEEE SEK
+
+- 2011 🥈
