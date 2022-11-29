@@ -17,6 +17,37 @@ egressos:
     - name: "Breno Odnan"
       course: "Engenharia Elétrica"
       start_date: 2018
+    - name: "João Victor Marçal"
+      course: "Engenharia Elétrica"
+      start_date: 2016
+    - name: "José Henrique Merlo"
+      course: "Engenharia Elétrica"
+      start_date: 2019
+    - name: "Gabriel Pinto"
+      course: "Engenharia Elétrica"
+      start_date: 2019
+    - name: "Gabriel Valdino"
+      course: "Engenharia da Computação"
+      start_date: 2018
+    - name: "Kaique Passos"
+      course: "Engenharia da Computação"
+      start_date: 2016
+    - name: "Lara Teixeira"
+      course: "Engenharia Elétrica"
+      start_date: 2018
+    - name: "Lucas Altoé"
+      course: "Engenharia da Computação"
+      start_date: 2017
+    - name: "Márcio Bezerra"
+      course: "Engenharia Elétrica"
+      start_date: 2019
+    - name: "Matteus Sisquini"
+      course: "Engenharia Mecânica"
+      start_date: 2017
+    - name: "Tales Ferracioli"
+      course: "Engenharia da Computação"
+      start_date: 2019
+    
   2016:
     - name: "Roberta Lima Gomes"
       course: "Engenharia da Computação"
