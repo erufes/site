@@ -1,0 +1,13 @@
+<div class="selection-process">
+    <div>
+        <div class="header">
+            Quer participar da Equipe?
+        </div>
+        <div class="subheader">
+            Nosso processo seletivo está aberto!
+        </div>
+    </div>
+    <a href="/">
+        <button class="btn btn--light-outline btn--x-large">Saiba Mais</button>
+    </a>
+</div>

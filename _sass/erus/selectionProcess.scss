@@ -1,0 +1,33 @@
+.selection-process {
+    width: 100%;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    height: 15rem;
+    color: white;
+    
+    font-family: "Oswald", sans-serif;
+    background: linear-gradient(0deg, rgba(48,120,128,1) 0%, rgba(48,80,128,1) 80%);
+
+    border-radius: 5px;
+
+    .header {
+        font-size: xx-large;
+    }
+
+    .subheader {
+        color: white;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+    }
+
+    @include breakpoint($small) {
+        background: linear-gradient(-90deg, rgba(48,120,128,1) 0%, rgba(48,80,128,1) 80%);
+        flex-direction: row;
+        height: 10rem;
+        align-items: center;
+    }
+
+}

@@ -2,7 +2,7 @@
 layout: splash
 author_profile: false
 header:
-  overlay_image: /assets/imgs/capas/capa_3.png  
+  overlay_image: /assets/imgs/capas/capa_3.png
   actions:
     - label: "Blog"
       url: "/blog/"
@@ -15,5 +15,7 @@ feature_row:
   - title: "Ensino 📚"
     excerpt: "Compartilhar conhecimento também é um pilar fundamental da equipe. O time já organizou dezenas de mini-cursos e oficinas de robótica para ensinar tudo aquilo que é aprendido ao longo do tempo para colegas de curso e alunos de ensino médio."
 ---
+
+<!-- {% include ps %} -->
 
 {% include feature_row %}
