@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: reportagens
 permalink: /reportagens/
 title: "Reportagens"
 classes: wide
