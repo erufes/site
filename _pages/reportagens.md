@@ -6,6 +6,11 @@ classes: wide
 author_profile: true
 ---
 
+### 2022
+
+- ["UFES abre as portas na semana do conhecimento" - ESTV](https://globoplay.globo.com/v/11150709/)
+- ["Semana do Conhecimento: Centro Tecnológico abre suas portas para os visitantes" - TV UFES](https://youtu.be/mRn8fR0vkA8)
+
 ### 2020
 
 - ["Inscrições abertas para a sétima edição do Torneio de Robótica da Ufes" - UFES](https://www.ufes.br/conteudo/inscricoes-abertas-para-setima-edicao-do-torneio-de-robotica-da-ufes)
