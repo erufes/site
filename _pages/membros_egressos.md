@@ -8,6 +8,11 @@ author_profile: true
 
 Ao longo dos anos, a equipe já teve diversos integrantes...
 
+### Egressos em 2022
+
+- **Gabrielly Cariman** ⚡ 2019-2022
+- **Pedro Fontes Lelis** 💻 201x-2022
+
 ### Egressos em 2021
 
 - **Elaine Dias** 🧑‍🔬 2021
@@ -25,6 +30,7 @@ Ao longo dos anos, a equipe já teve diversos integrantes...
 - **Lucas Altoé** 💻 2017-2020
 - **Márcio Bezerra** ⚡ 2019-2020
 - **Matteus Sisquini** ⚙️ 2017-2020
+  > Larga doença, véi !
 - **Tales Ferracioli** 💻 2019-2020
 
 ### Egressos em 2019
