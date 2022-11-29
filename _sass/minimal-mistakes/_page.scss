@@ -64,6 +64,8 @@ body {
       margin-right: 0;
       width: 100%;
       clear: both;
+      font-family: 'Roboto Slab', serif;
+      font-size: large;
     }
   }
 }
@@ -72,6 +74,7 @@ body {
   margin-top: 0;
   line-height: 1;
   color: $index_color;
+  font-family: 'Oswald', sans-serif;
 
   a {
     color: $index_color;
@@ -95,6 +98,7 @@ body {
   }
 
 	h1, h2, h3, h4, h5, h6 {
+    font-family: 'Oswald', sans-serif;
 		.header-link {
 			position: relative;
 			left: 0.5em;
