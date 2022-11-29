@@ -1,5 +1,5 @@
 ---
-layout: egressos
+layout: single
 permalink: /membros/membros_egressos/
 title: "Membros Egressos"
 classes: wide
