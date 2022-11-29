@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /frente_educacional/
+permalink: /projetos/frente_educacional/
 title: "Frente Educacional"
 classes: wide
 author_profile: true

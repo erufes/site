@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /eventos/
+permalink: /projetos/eventos/
 title: "Eventos"
 classes: wide
 author_profile: true

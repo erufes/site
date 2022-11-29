@@ -1,6 +1,6 @@
 ---
 layout: single
-permalink: /frente_competitiva/
+permalink: /projetos/frente_competitiva/
 title: "Frente Competitiva"
 classes: wide
 author_profile: true
