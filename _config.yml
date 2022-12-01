@@ -24,7 +24,7 @@ description              : "Equipe de Robótica da Universidade Federal do Espí
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/dev" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "assets/imgs/favicon.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "assets/imgs/favicon2.png"# path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # assets/imgs/favicon.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -108,7 +108,7 @@ author:
   avatar           : "assets/imgs/profile.png"
   bio              : "Equipe de Robótica da Universidade Federal do Espírito Santo" 
   location         : "Sala 33 - Prédio CT-13"
-  email            : 
+  email            : erus@inf.ufes.br
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
