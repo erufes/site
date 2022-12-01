@@ -6,9 +6,9 @@ classes: wide
 author_profile: true
 ---
 
-{% include ps header="Nosso processo seletivo está aberto!" description="Os patos precisam de ajuda! 🦆🦆🦆" %}
+<!-- {% include ps header="Nosso processo seletivo está aberto!" description="Os patos precisam de ajuda! 🦆🦆🦆" %} -->
 
-# 🦆 O que é Duckietown?
+# O que é o Duckietown?
 
 Duckietown é um projeto de pesquisa que visa desenvolver uma plataforma de robótica autônoma para testes de veículos autônomos. O projeto foi iniciado em 2016 e é mantido pela [Duckietown Foundation](https://www.duckietown.org/about/duckietown-foundation).
 

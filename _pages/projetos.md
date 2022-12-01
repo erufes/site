@@ -14,11 +14,8 @@ Nossos projetos são separados em três frentes: Competitiva, Educacional e Orga
 - ### [Frente Educacional](frente_educacional)
 - ### [Eventos](eventos)
 
-Além dessas frentes, adentrando um pouco mais na formação interna da equipe e alimentando o âmbito da pesquisa, iniciamos uma subdivisão de quatro áreas para trabalharmos, cada um tendo sua área que atuará principalmente. Essas áreas de pesquisa são:
+---
+
+Além dessas frentes, adentrando um pouco mais na formação interna da equipe e alimentando o âmbito da pesquisa, iniciamos uma subdivisão de quatro áreas de trabalho, com cada membro tendo sua área principal. Essas áreas de pesquisa são:
 
 {% include projetos %}
-
-<!-- - ### [Duckietown](duckietown)
-- ### [VSSS](vsss)
-- ### [PDR](pdr)
-- ### [PATE](pate) -->
