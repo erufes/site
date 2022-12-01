@@ -2,10 +2,14 @@
     display: flex;
     gap: 2rem;
     flex-direction: column;
+    width: 95%;
     align-items: center;
     justify-content: center;
     a {
+        width: 100%;
         text-decoration: none;
+        display: flex;
+        justify-content: center;
     }
     a:hover {
         text-decoration: none!important;
@@ -13,36 +17,31 @@
     .gridItem {
         background-color: $erus_blue;
         height: 10rem;
-        width: 25rem;
+        width: 100%;
         border-radius: 15px;
-        display: flex;
         color: white;
-        justify-items: center;
-        justify-content: center;
-        align-items: center;
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
         background-clip: border-box;
-        .title {
-            font-family: 'Inter', sans-serif;
-            font-weight: 700;
-            color: white;
-            font-size: 1.5rem;
-        }
     }
 
     .blurContainer {
         width: 100%;
+        border-radius: 15px;
         height: 100%;
         display: flex;
         justify-content: center;
         align-items: center;
-        backdrop-filter: blur(0.05em);
-        -webkit-backdrop-filter: blur(0.05em);
-        
-        a::hover{
-            text-decoration: none;
+        backdrop-filter: blur(0.1em);
+        -webkit-backdrop-filter: blur(0.1em);
+        .title {
+            font-family: 'Inter', sans-serif;
+            font-weight: 800;
+            color: white;
+            font-size: 1.5rem;
+            text-shadow: 10rem;
+            letter-spacing: 0.05em;
         }
     }
 
