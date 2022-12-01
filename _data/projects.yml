@@ -1,0 +1,46 @@
+duckietown:
+  projectName: Duckietown
+  projectDescription: Duckietown is a project that aims to build a city for autonomous vehicles.
+  projectLink: /projetos/duckietown
+  projectImage: /assets/imgs/projetos/duck.jpg
+  projectTags:
+    - "Autonomous Vehicles"
+    - "Robotics"
+    - "Computer Vision"
+    - "Machine Learning"
+    - "Deep Learning"
+    - "ROS"
+    - "Python"
+    - "C++"
+    - "Docker"
+    - "Linux"
+    - "Ubuntu"
+    - "ROS"
+    - "OpenCV"
+    - "Gazebo"
+  projectEmoji: 🦆
+vsss:
+  projectName: VSSS
+  projectDescription: VSSS is a project that aims to build a city for autonomous vehicles.
+  projectLink: /projetos/vsss
+  projectTags:
+    - "Autonomous Vehicles"
+    - "Robotics"
+    - "Computer Vision"
+    - "Machine Learning"
+    - "Deep Learning"
+    - "ROS"
+    - "Python"
+    - "C++"
+    - "Docker"
+    - "Linux"
+  projectEmoji: ⚽
+pate:
+  projectName: PATE
+  projectDescription: PATE is a project that aims to build a city for autonomous vehicles.
+  projectLink: /projetos/pate
+pdr:
+  projectName: PDR
+  projectDescription: PDR is a project that aims to build a city for autonomous vehicles.
+  projectLink: /projetos/pdr
+  projectImage: /assets/imgs/projetos/pdr.jpg

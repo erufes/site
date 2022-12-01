@@ -1,0 +1,9 @@
+<div class="projectgrid">
+        {%- for project in site.data.projects -%}
+        <a href="{{project[1].projectLink | relative_url}}">
+            <div class="gridItem" {% if project[1].projectImage %} style="background-image: url({{project[1].projectImage | relative_url}})" {%endif%}>
+                <div class="blurContainer"><span class="title">{{project[1].projectName}}</span></div>
+            </div>
+        </a>
+        {% endfor %}
+</div>
