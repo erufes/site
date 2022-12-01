@@ -11,8 +11,13 @@ Nossa maior missão é de fomentar o crescimento da Robótica no estado como um 
 Nossos projetos são separados em três frentes: Competitiva, Educacional e Organização de Eventos. Procuramos ter as três sempre em bom andamento, pois sabemos que o conhecimento que construímos e a inspiração que trazemos para cada pessoa que nos vê é o mais importante da nossa missão!
 
 - ### [Frente Competitiva](frente_competitiva)
-
 - ### [Frente Educacional](frente_educacional)
-
 - ### [Eventos](eventos)
+
+Além dessas frentes, adentrando um pouco mais na formação interna da equipe e alimentando o âmbito da pesquisa, iniciamos uma subdivisão de quatro áreas para trabalharmos, cada um tendo sua área que atuará principalmente. Essas áreas de pesquisa são:
+
+- ### [Duckietown](duckietown)
+- ### [VSSS](vsss)
+- ### [PDR](pdr)
+- ### [PATE](pate)
 
