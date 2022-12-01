@@ -32,7 +32,7 @@
                             </span>
                     {% endcase %}
                 </span>
-                {% if year[0] != "ultrabots" %}
+                {% if year[0] != "ultrabots" and year[0] != "Ano Desconhecido" %}
                     {% if member.start_date == year[0] %}
                         {{member.start_date}}
                     {% else %}
