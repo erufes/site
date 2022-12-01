@@ -1,13 +1,27 @@
 <div class="selection-process">
-    <div>
+    <div class="headContainer">
         <div class="header">
+            {% if include.header %}
+                {{include.header}}
+            {% else %}
             Quer participar da Equipe?
+            {% endif %}
         </div>
         <div class="subheader">
-            Nosso processo seletivo está aberto!
+            {% if include.description %}
+                {{include.description}}
+            {% else %}
+                Nosso processo seletivo está aberto!
+            {% endif %}
         </div>
     </div>
-    <a href="/">
-        <button class="btn btn--light-outline btn--x-large">Saiba Mais</button>
+    <a href="{%if include.url%}{{include.url | relative_url}} {%else%}   {{"/seja_membro" | relative_url}}{%endif%}">
+        <button class="btn btn--light-outline btn--x-large">
+            {% if include.buttonText %}
+                {{include.buttonText}}
+            {% else %}
+                Saiba mais
+            {% endif %}
+        </button>
     </a>
 </div>
