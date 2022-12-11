@@ -224,6 +224,9 @@ current:
   - name: "Gabrel Pietroluongo Nascimento"
     course: "Engenharia da Computação"
     start_date: 2019
+  - name: "Gabriel Schettino Lucas"
+    course: "Engenharia Elétrica"
+    start_date: 2022
   - name: "Gabriel Zon Andrade de Assis"
     course: "Engenharia Mecânica"
     start_date: 2021
@@ -239,6 +242,9 @@ current:
   - name: "Higor David Oliveira"
     course: "Engenharia Elétrica"
     start_date: 2018
+  - name: "Ruany Rodrigues Nascimento Hott"
+    course: "Engenharia da Computação"
+    start_date: 2022
   - name: "Thiago Tineli Paiva"
     course: "Engenharia da Computação"
     start_date: 2019
