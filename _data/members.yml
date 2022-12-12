@@ -242,6 +242,9 @@ current:
   - name: "Higor David Oliveira"
     course: "Engenharia Elétrica"
     start_date: 2018
+  - name: "Mileny Alves dos Santos"
+    course: "Engenharia Elétrica"
+    start_date: 2022
   - name: "Ruany Rodrigues Nascimento Hott"
     course: "Engenharia da Computação"
     start_date: 2022
