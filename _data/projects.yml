@@ -23,6 +23,7 @@ vsss:
   projectName: VSSS
   projectDescription: VSSS is a project that aims to build a city for autonomous vehicles.
   projectLink: /projetos/vsss
+  projectImage: /assets/imgs/projetos/vsss.jfif
   projectTags:
     - "Autonomous Vehicles"
     - "Robotics"
