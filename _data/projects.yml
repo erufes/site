@@ -36,10 +36,6 @@ vsss:
     - "Docker"
     - "Linux"
   projectEmoji: ⚽
-pate:
-  projectName: PATE
-  projectDescription: PATE is a project that aims to build a city for autonomous vehicles.
-  projectLink: /projetos/pate
 pdr:
   projectName: PDR
   projectDescription: PDR is a project that aims to build a city for autonomous vehicles.
