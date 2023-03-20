@@ -255,6 +255,7 @@ current:
   - name: "Mileny Alves dos Santos"
     course: "Engenharia Elétrica"
     start_date: 2022
+    github: milenyalves
   - name: "Thiago Tineli Paiva"
     course: "Engenharia da Computação"
     start_date: 2019
