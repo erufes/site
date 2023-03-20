@@ -3,6 +3,9 @@ egressos:
     - name: "Gabrielly Cariman"
       course: "Engenharia Elétrica"
       start_date: "2019"
+    - name: "Gabriel Zon Andrade de Assis"
+      course: "Engenharia Mecânica"
+      start_date: 2021
     - name: "Lorena Bassani"
       course: "Ciência da Computação"
       start_date: 2017
@@ -77,7 +80,7 @@ egressos:
       start_date: 2017
     - name: "Gabriel Barbosa"
       course: "Engenharia Elétrica"
-      start_date: 2017   
+      start_date: 2017
     - name: "Gabriel Garcia"
       start_date: 2017
     - name: "Mariana Zanoni"
@@ -118,7 +121,7 @@ egressos:
     - name: "Raquel Vassalo"
       course: "Engenharia Elétrica"
       start_date: 2012
-      professor: true 
+      professor: true
   2016:
     - name: "Roberta Lima Gomes"
       course: "Engenharia da Computação"
@@ -188,7 +191,7 @@ egressos:
     - name: "Thales Layber"
       course: "Engenharia Elétrica"
     - name: "Vantuir Junior"
-      
+
   ultrabots:
     - name: "Carmem Faria Santos"
       course: "Engenharia Mecânica"
@@ -202,17 +205,16 @@ egressos:
     - name: "Thierry Rampinelli Bravo"
       course: "Engenharia Elétrica"
     - name: "André Pacheco"
-      course: "Engenharia da Computação" 
+      course: "Engenharia da Computação"
     - name: "Juan França"
-      course: "Engenharia da Computação"   
+      course: "Engenharia da Computação"
     - name: "Vitor Buback"
       course: "Engenharia da Computação"
     - name: "Ivan de Oliveira Nunes"
       course: "Engenharia da Computação"
     - name: "Jackson Brito"
-      course: "Engenharia da Computação"      
+      course: "Engenharia da Computação"
 
-  
 current:
   - name: "André Pacheco"
     professor: true
@@ -227,9 +229,6 @@ current:
   - name: "Gabriel Schettino Lucas"
     course: "Engenharia Elétrica"
     start_date: 2022
-  - name: "Gabriel Zon Andrade de Assis"
-    course: "Engenharia Mecânica"
-    start_date: 2021
   - name: "Gabriela Rodrigues Carvalho"
     course: "Engenharia Elétrica"
     start_date: 2022
