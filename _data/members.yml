@@ -12,6 +12,9 @@ egressos:
     - name: "Pedro Fontes Lelis"
       course: "Engenharia da Computação"
       start_date: "2016"
+    - name: "Ruany Rodrigues Nascimento Hott"
+      course: "Engenharia da Computação"
+      start_date: 2022
   2021:
     - name: "Elaine Dias"
       course: "Ciência da Computação"
@@ -243,9 +246,6 @@ current:
     start_date: 2018
   - name: "Mileny Alves dos Santos"
     course: "Engenharia Elétrica"
-    start_date: 2022
-  - name: "Ruany Rodrigues Nascimento Hott"
-    course: "Engenharia da Computação"
     start_date: 2022
   - name: "Thiago Tineli Paiva"
     course: "Engenharia da Computação"
