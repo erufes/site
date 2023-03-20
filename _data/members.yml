@@ -222,31 +222,40 @@ current:
   - name: "André Pacheco"
     professor: true
     course: "Engenharia da Computação"
+    github: paaatcha
     start_date: 2022
   - name: "Fernando Bisi Vieira"
     course: "Engenharia da Computação"
     start_date: 2017
+    github: fernando0x40
   - name: "Gabrel Pietroluongo Nascimento"
     course: "Engenharia da Computação"
     start_date: 2019
+    github: pietroluongo
   - name: "Gabriel Schettino Lucas"
     course: "Engenharia Elétrica"
     start_date: 2022
+    github: gabrielschettino
   - name: "Gabriela Rodrigues Carvalho"
     course: "Engenharia Elétrica"
     start_date: 2022
+    github: Gabiaxls
   - name: "Gabryel Fonseca Batista"
     course: "Engenharia Elétrica"
     start_date: 2021
+    github: gabryelfbatista
   - name: "Guilherme Teixeira Caldana"
     course: "Engenharia Elétrica"
     start_date: 2021
+    github: caldgui
   - name: "Higor David Oliveira"
     course: "Engenharia Elétrica"
     start_date: 2018
+    github: hdogithub
   - name: "Mileny Alves dos Santos"
     course: "Engenharia Elétrica"
     start_date: 2022
   - name: "Thiago Tineli Paiva"
     course: "Engenharia da Computação"
     start_date: 2019
+    github: ThiagoPaiva27

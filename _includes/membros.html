@@ -1,31 +1,36 @@
-<ul>
-{%- for member in site.data.members.current -%}
-    <li>
-        <b>{{member.name}}</b>
-        {% if member.professor %}
-            <span title="Coordenador" style="cursor: help">
-                🧑‍🏫
-            </span>
-        {% endif %}
-        <span title="{{member.course}}" style="cursor: help">
-            {% case member.course %}
-                {% when "Engenharia Elétrica" %}
-                    {{site.data.courses_emojis.eletrica}}
-                {% when "Engenharia da Computação" %}
-                    {{site.data.courses_emojis.engcomp}}
-                {% when "Ciência da Computação" %}
-                    {{site.data.courses_emojis.ccomp}}
-                {% when "Engenharia Mecânica" %}
-                    {{site.data.courses_emojis.engmec}}
-                {% when "Engenharia Civil" %}
-                    {{site.data.courses_emojis.civil}}
-                {% else %}
-                    <span title="Desconhecido" style="cursor: help">
-                        {{site.data.courses_emojis.unknown}}
+<div class="memberContainer">
+    {%- for member in site.data.members.current -%}
+        <div class="memberCard">
+            {% if member.github %}
+            <img src="https://github.com/{{%member.github%}}.png" />
+            {% endif %}
+            <b>{{member.name}}</b>
+            <span>
+                {% if member.professor %}
+                    <span title="Coordenador" style="cursor: help;font-size: 1.8rem;">
+                        🧑‍🏫
                     </span>
-            {% endcase %}
-        </span>
-        {{member.start_date}}
-</li>
-{% endfor %}
-</ul>
+                {% endif %}
+                <span title="{{member.course}}" style="cursor: help; font-size: 1.8rem;">
+                    {% case member.course %}
+                        {% when "Engenharia Elétrica" %}
+                            {{site.data.courses_emojis.eletrica}}
+                        {% when "Engenharia da Computação" %}
+                            {{site.data.courses_emojis.engcomp}}
+                        {% when "Ciência da Computação" %}
+                            {{site.data.courses_emojis.ccomp}}
+                        {% when "Engenharia Mecânica" %}
+                            {{site.data.courses_emojis.engmec}}
+                        {% when "Engenharia Civil" %}
+                            {{site.data.courses_emojis.civil}}
+                        {% else %}
+                            <span title="Desconhecido" style="cursor: help">
+                                {{site.data.courses_emojis.unknown}}
+                            </span>
+                    {% endcase %}
+                </span>
+            </span>
+            {{member.start_date}}
+        </div>
+    {% endfor %}
+</div>
