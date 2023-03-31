@@ -16,6 +16,6 @@ feature_row:
     excerpt: "Compartilhar conhecimento também é um pilar fundamental da equipe. O time já organizou dezenas de mini-cursos e oficinas de robótica para ensinar tudo aquilo que é aprendido ao longo do tempo para colegas de curso e alunos de ensino médio."
 ---
 
-<!-- {% include ps %} -->
+{% include ps %}
 
 {% include feature_row %}

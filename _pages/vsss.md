@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-<!-- {% include ps header="Nosso processo seletivo está aberto!" description="Existem três robôs no time, mas ainda precisamos de você!!!" %} -->
+{% include ps header="Nosso processo seletivo está aberto!" description="Venha complementar nosso time! 🤖⚽" %}
 
 # O que é o VSSS?
 
