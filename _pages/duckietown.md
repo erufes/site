@@ -6,7 +6,7 @@ classes: wide
 author_profile: true
 ---
 
-{% include ps header="Nosso processo seletivo está aberto!" description="Os patos precisam de ajuda! 🦆🦆🦆" %}
+<!-- {% include ps header="Nosso processo seletivo está aberto!" description="Os patos precisam de ajuda! 🦆🦆🦆" %} -->
 
 # O que é o Duckietown?
 

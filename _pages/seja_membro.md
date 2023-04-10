@@ -16,11 +16,11 @@ Caso você tenha se identificado com a nossa missão de desenvolver e apoiar o c
 
 ---
 
+Atualmente nosso processo seletivo está fechado. Acompanhe [nossas redes sociais](https://linktr.ee/erus.ufes) pra saber quando o próximo for acontecer!
+
 <!-- Nosso processo seletivo está atualmente **aberto** e, para participar, basta se inscrever usando [este link!](https://forms.gle/M2a8CTha7dA7MQ5r7)
 {: .notice--info} -->
 
-
-{% include ps header="Nosso processo seletivo está aberto!" buttonText="Inscreva-se" url="https://forms.gle/M2a8CTha7dA7MQ5r7" description="Participe da equipe!" %}
+<!-- {% include ps header="Nosso processo seletivo está aberto!" buttonText="Inscreva-se" url="https://forms.gle/M2a8CTha7dA7MQ5r7" description="Participe da equipe!" %} -->
 
 <!-- Basta você enviar um email para [erus@inf.ufes.br](mailto:erus@inf.ufes.br) que iremos entrar em contato para dar continuidade ao seu processo de adesão à equipe. -->
-
