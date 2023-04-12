@@ -1,14 +1,27 @@
 egressos:
   2022:
+    - name: "Gabriela Rodrigues Carvalho"
+      course: "Engenharia Elétrica"
+      start_date: 2022
+      github: Gabiaxls
     - name: "Gabrielly Cariman"
       course: "Engenharia Elétrica"
       start_date: "2019"
     - name: "Gabriel Zon Andrade de Assis"
       course: "Engenharia Mecânica"
       start_date: 2021
+    - name: "João Pedro Milli Biancardi"
+      course: "Engenharia da Computação"
+      start_date: 2021
     - name: "Lorena Bassani"
       course: "Ciência da Computação"
-      start_date: 2017
+      start_date: 2018
+    - name: "Luiza Bolonha Vieira Onofre"
+      course: "Engenharia Elétrica"
+      start_date: 2021
+    - name: "Mayke Wallace Silva Alves"
+      course: "Engenharia da Computação"
+      start_date: 2021
     - name: "Pedro Fontes Lelis"
       course: "Engenharia da Computação"
       start_date: "2016"
@@ -16,11 +29,33 @@ egressos:
       course: "Engenharia da Computação"
       start_date: 2022
   2021:
+    - name: "Alef Vinícius Bausen Franco"
+      course: "Engenharia Mecânica"
+      start_date: 2021
+    - name: "André Ferreira"
+      course: "Engenharia Elétrica"
+      start_date: 2019
+      professor: true
+    - name: "Arthur Eugênio Ribeiro Pereira"
+      course: "Economia"
+      start_date: 2021
     - name: "Elaine Dias"
       course: "Ciência da Computação"
       start_date: 2021
+    - name: "Hemilly Calaes Cardoso"
+      course: "Engenharia da Computação"
+      start_date: 2021
     - name: "Lívia Barcelos"
       course: "Engenharia da Computação"
+      start_date: 2021
+    - name: "Maria Manuela Macedo Pereira Pinheiro"
+      course: "Engenharia Mecânica"
+      start_date: 2021
+    - name: "Pedro Eugênio Batista da Cruz"
+      course: "Sistemas de Informação"
+      start_date: 2021
+    - name: "Rafael Francisco da Silva"
+      course: "Engenharia Elétrica"
       start_date: 2021
   2020:
     - name: "Breno Odnan"
@@ -236,10 +271,6 @@ current:
     course: "Engenharia Elétrica"
     start_date: 2022
     github: gabrielschettino
-  - name: "Gabriela Rodrigues Carvalho"
-    course: "Engenharia Elétrica"
-    start_date: 2022
-    github: Gabiaxls
   - name: "Gabryel Fonseca Batista"
     course: "Engenharia Elétrica"
     start_date: 2021
