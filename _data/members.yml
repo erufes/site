@@ -259,6 +259,22 @@ current:
     course: "Engenharia da Computação"
     github: paaatcha
     start_date: 2022
+  - name: "André Andrade Simão"
+    course: "Engenharia Elétrica"
+    github: "HaddadSemMao"
+    start_date: 2023
+  - name: "Arthur Coelho Estevão"
+    course: "Engenharia da Computação"
+    github: arthurcoelho442
+    start_date: 2023
+  - name: "Diana Mello Rosi"
+    start_date: 2023
+    course: "Engenharia da Computação"
+    github: dianamross
+  - name: "Elisa Muller Sarmento"
+    start_date: 2023
+    course: "Engenharia da Computação"
+    github: BeWSM
   - name: "Fernando Bisi Vieira"
     course: "Engenharia da Computação"
     start_date: 2017
@@ -283,10 +299,30 @@ current:
     course: "Engenharia Elétrica"
     start_date: 2018
     github: hdogithub
+  - name: "Igor Ferrari Jensen"
+    course: "Engenharia Elétrica"
+    start_date: 2023
+    github: IgorJensen
+  - name: "Luiz Gabriel Figueiredo de Carvalho"
+    course: "Engenharia da Computação"
+    start_date: 2023
+    github: LGFigueiredoC
   - name: "Mileny Alves dos Santos"
     course: "Engenharia Elétrica"
     start_date: 2022
     github: milenyalves
+  - name: "Pedro Henrique Muniz Carvalho"
+    course: "Engenharia da Computação"
+    start_date: 2023
+    github: phmuniz
+  - name: "Raphael Soares Suarez"
+    course: "Ciência da Computação"
+    start_date: 2023
+    github: raphael-ss
+  - name: "Ruyther Pedro da Silva Maximo"
+    course: "Engenharia Elétrica"
+    start_date: 2023
+    github: MrMaximo
   - name: "Thiago Tineli Paiva"
     course: "Engenharia da Computação"
     start_date: 2019
