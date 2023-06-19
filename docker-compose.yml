@@ -12,3 +12,8 @@ services:
     tty: true
     container_name: blog
     command: bundle exec jekyll serve -H 0.0.0.0 -t
+    networks:
+      - erusnet
+networks:
+  erusnet:
+    external: true
