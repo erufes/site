@@ -1,4 +1,3 @@
-#!/bin/bash
+#!/bin/sh
 git pull
-docker restart blog
-docker-compose up -d
+chmod +x update-site.sh

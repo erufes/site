@@ -1,5 +1,34 @@
 egressos:
+  2025:
+    - name: "Igor Ferrari Jensen"
+      course: "Engenharia Elétrica"
+      start_date: 2023
+      github: IgorJensen
+    - name: "Luiz Gabriel Figueiredo de Carvalho"
+      course: "Engenharia da Computação"
+      start_date: 2023
+      github: LGFigueiredoC
+    - name: "Yuri Tressmann Mutz"
+      course: "Ciência da Computação"
+      start_date: 2024
+  2023:
+    - name: "Fernando Bisi Vieira"
+      course: "Engenharia da Computação"
+      start_date: 2017
+      github: fernando0x40
+    - name: "Gabriel Pietroluongo Nascimento"
+      course: "Engenharia da Computação"
+      start_date: 2019
+      github: pietroluongo
   2022:
+    - name: "Thiago Tineli Paiva"
+      course: "Engenharia da Computação"
+      start_date: 2019
+      github: ThiagoPaiva27
+    - name: "Higor David Oliveira"
+      course: "Engenharia Elétrica"
+      start_date: 2018
+      github: hdogithub
     - name: "Gabriela Rodrigues Carvalho"
       course: "Engenharia Elétrica"
       start_date: 2022
@@ -254,76 +283,111 @@ egressos:
       course: "Engenharia da Computação"
 
 current:
+  - name: "Bruno"
+    professor: true
+    course: "Ciência da Computação"
+    github: blegora
+    start_date: 2024
   - name: "André Pacheco"
     professor: true
     course: "Engenharia da Computação"
     github: paaatcha
     start_date: 2022
-  - name: "André Andrade Simão"
-    course: "Engenharia Elétrica"
-    github: "HaddadSemMao"
-    start_date: 2023
-  - name: "Arthur Coelho Estevão"
-    course: "Engenharia da Computação"
-    github: arthurcoelho442
-    start_date: 2023
+  # - name: "André Andrade Simão"
+  #   course: "Engenharia Elétrica"
+  #   github: "HaddadSemMao"
+  #   start_date: 2023
+  # - name: "Arthur Coelho Estevão"
+  #   course: "Engenharia da Computação"
+  #   github: arthurcoelho442
+  #   start_date: 2023
+  - name: "Artur Oliveira Cunha"
+    start_date: 2025
+    course:
+    github:
+  - name: "Daniel Cid Constantinidis"
+    start_date: 2025
+    course:
+    github:
   - name: "Diana Mello Rosi"
     start_date: 2023
     course: "Engenharia da Computação"
     github: dianamross
+  - name: "Diogo Delazare Brandao"
+    start_date: 2025
+    course:
+    github:
   - name: "Elisa Muller Sarmento"
     start_date: 2023
     course: "Engenharia da Computação"
     github: BeWSM
-  - name: "Fernando Bisi Vieira"
+  - name: "Felipe Bruno Raposo Soares"
+    start_date: 2025
+    course:
+    github:
+  - name: "Gabriel Lyra Campos"
+    start_date: 2024
+    course: "Engenharia Elétrica"
+    github:
+  - name: "Guilherme Louzada Figueiredo"
+    start_date: 2025
+    course:
+    github:
+  - name: "Heron Garcia Lodi E Silva"
+    start_date: 2025
+    course:
+    github:
+  - name: "Igor Subtil Fonseca Neves"
+    start_date: 2024
+    course: "Engenharia Elétrica"
+    github:
+  - name: "Isabel Passamani Soeiro De Castro"
+    start_date: 2025
+    course:
+    github:
+  - name: "Leo Santos Carvalho Comério"
+    start_date: 2024
     course: "Engenharia da Computação"
-    start_date: 2017
-    github: fernando0x40
-  - name: "Gabriel Pietroluongo Nascimento"
-    course: "Engenharia da Computação"
-    start_date: 2019
-    github: pietroluongo
-  - name: "Gabriel Schettino Lucas"
+    github:
+  - name: "Natan Barcellos Castro"
+    start_date: 2024
     course: "Engenharia Elétrica"
-    start_date: 2022
-    github: gabrielschettino
-  - name: "Gabryel Fonseca Batista"
-    course: "Engenharia Elétrica"
-    start_date: 2021
-    github: gabryelfbatista
-  - name: "Guilherme Teixeira Caldana"
-    course: "Engenharia Elétrica"
-    start_date: 2021
-    github: caldgui
-  - name: "Higor David Oliveira"
-    course: "Engenharia Elétrica"
-    start_date: 2018
-    github: hdogithub
-  - name: "Igor Ferrari Jensen"
-    course: "Engenharia Elétrica"
-    start_date: 2023
-    github: IgorJensen
-  - name: "Luiz Gabriel Figueiredo de Carvalho"
-    course: "Engenharia da Computação"
-    start_date: 2023
-    github: LGFigueiredoC
-  - name: "Mileny Alves dos Santos"
-    course: "Engenharia Elétrica"
-    start_date: 2022
-    github: milenyalves
-  - name: "Pedro Henrique Muniz Carvalho"
-    course: "Engenharia da Computação"
-    start_date: 2023
-    github: phmuniz
-  - name: "Raphael Soares Suarez"
+    github:
+  - name: "Rafael Vieira de Almeida"
+    start_date: 2024
     course: "Ciência da Computação"
-    start_date: 2023
-    github: raphael-ss
-  - name: "Ruyther Pedro da Silva Maximo"
-    course: "Engenharia Elétrica"
-    start_date: 2023
-    github: MrMaximo
-  - name: "Thiago Tineli Paiva"
+    github:
+  - name: "Vitor Rodrigues Tomé"
+    start_date: 2024
     course: "Engenharia da Computação"
-    start_date: 2019
-    github: ThiagoPaiva27
+    github:
+
+  # - name: "Gabriel Schettino Lucas"
+  #   course: "Engenharia Elétrica"
+  #   start_date: 2022
+  #   github: gabrielschettino
+  # - name: "Gabryel Fonseca Batista"
+  #   course: "Engenharia Elétrica"
+  #   start_date: 2021
+  #   github: gabryelfbatista
+  # - name: "Guilherme Teixeira Caldana"
+  #   course: "Engenharia Elétrica"
+  #   start_date: 2021
+  #   github: caldgui
+  # - name: "Mileny Alves dos Santos"
+  #   course: "Engenharia Elétrica"
+  #   start_date: 2022
+  #   github: milenyalves
+  # - name: "Pedro Henrique Muniz Carvalho"
+  #   course: "Engenharia da Computação"
+  #   start_date: 2023
+  #   github: phmuniz
+  # - name: "Raphael Soares Suarez"
+  #   course: "Ciência da Computação"
+  #   start_date: 2023
+  #   github: raphael-ss
+  # - name: "Ruyther Pedro da Silva Maximo"
+  #   course: "Engenharia Elétrica"
+  #   start_date: 2023
+  #   github: MrMaximo
+
