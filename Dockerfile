@@ -16,6 +16,8 @@ RUN apt-get update && apt-get install -y \
 # Set the working directory inside the container
 WORKDIR /usr/src/app
 
+RUN git config --system --add safe.directory /usr/src/app
+
 # Copy the Gemfile and Gemfile.lock
 COPY Gemfile minimal-mistakes-jekyll.gemspec ./
 
