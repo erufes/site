@@ -1,6 +1,7 @@
 services:
   jekyll:
     image: jekyll-site:latest
+    container_name: blog
     build:
       context: .
     volumes:
@@ -9,3 +10,8 @@ services:
     ports:
       - "4000:4000"
     command: bundle exec jekyll serve --host 0.0.0.0 --watch
+    networks:
+          - erusnet
+networks:
+  erusnet:
+    external: true
